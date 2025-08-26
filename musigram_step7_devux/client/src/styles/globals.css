@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{--maxw:680px}.container-app{max-width:var(--maxw);margin:0 auto}
